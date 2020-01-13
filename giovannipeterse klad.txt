@@ -1,0 +1,11 @@
+<html>
+<head>
+
+
+</head>
+<body>
+Hi there, welcome to my website, I'm a creative business student at BUas. 
+
+<img src="images/buas.png">
+</body> 
+</html>
